@@ -1,0 +1,126 @@
+.attribution { font-size: 11px; text-align: center; 
+}
+
+.attribution a { color: hsl(228, 45%, 44%); 
+}
+
+p{
+    font-size: 16px;
+}
+
+.Nutrition table {
+    width: 100%;
+    border-collapse: collapse;
+}
+.Nutrition td {
+    padding: 7px;
+    border-bottom: 1px solid;
+    border-color: black;
+}
+.Nutrition tr:last-child td {
+    border-bottom: none;
+}
+
+div{
+    background-color: hsl(0, 0%, 100%);
+    border-style: solid;
+    border-color: white;
+    padding: 20px;
+    margin-top: -2px;
+    width: 50%;
+    margin-left: 25%;
+
+
+
+}
+img {
+    border-style: solid;
+    border-radius: 10px;
+    border-color: white;
+    width: 100%;
+
+}
+
+body{
+    background-color: hsl(30, 54%, 90%);
+}
+h1, h2 {
+    font-family: "Young Serif", serif;
+    font-weight: 400;
+    font-style: normal;
+    margin-top: -2rem;
+}
+
+.Outfit {
+    font-family: "Outfit", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 400;
+  font-style: normal;
+}
+
+h2, .kg{
+    color:hsl(14, 45%, 36%);
+}
+
+ol.Outfit li::marker{
+    color:hsl(14, 45%, 36%);
+}
+
+ul.Out li::marker{
+    color:hsl(14, 45%, 36%);
+
+
+}
+
+
+.Preparation {
+    color: hsl(330, 100%, 36%);
+    margin-top: -2rem;
+
+}
+ul.list li::marker{
+    color: hsl(330, 100%, 36%);
+}
+
+ul, ol {
+    list-style-position: inside; /* Place the bullet/number inside the content flow */
+    padding-left: 0;
+
+}
+
+ul.Outfit.list li,
+ul.Outfit.Out li,
+ol.Outfit li {
+    margin-bottom: 10px; /* Adjust the value as needed */
+}
+.table{
+    margin-top: -3rem;
+}
+
+.pink{
+    background-color:hsl(330, 100%, 98%);
+    padding-block: 45px;
+    border-radius: 0.9rem;
+    margin-top: -2rem;
+}
+
+.Ingredients{
+    margin-top: 0.2rem;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
